@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joebakid
-- visit my porfolio  https://josephbawo.netlify.app/
+- visit my porfolio  https://josephbawo.vercel.app/
 - 👀 I’m interested in collaborations on open source projects 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any type of project actually
