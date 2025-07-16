@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joebakid
 - visit my porfolio  [josephbawo.tech](https://www.josephbawo.tech/)
 - 👀 I’m interested in collaborations on open source projects 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning  expressJs
 - 💞️ I’m looking to collaborate on any type of project actually
 - 📫 How to reach me josephbawo@gmail.com
 
