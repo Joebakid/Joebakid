@@ -10,13 +10,13 @@ I'm a passionate developer with a love for building efficient and impactful web 
 ### 🚀 About Me
 
  
-- 💻 Learning and building with **JavaScript**, **Express.js**, and **React**
+- 💻 Learning and building with **Nextjs**, **Python**, and **React**
 - 🛠️ Open to collaborating on open source and side projects
 - 💬 Let's talk about tech, startups, or developer tools
 
 ### 🧠 Current Focus
 
-- Deepening backend knowledge with **Node.js + Express.js**
+- Deepening backend knowledge with **Python + FastApi**
 - Working on personal and collaborative web apps
 - Strengthening full-stack fundamentals
 
