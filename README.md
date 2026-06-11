@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Joseph Bawo
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Visit-Portfolio-009688?style=flat-square)](https://www.josephbawo.tech)
+[![Portfolio](https://img.shields.io/badge/🌐%20Visit-Portfolio-009688?style=flat-square)](https://josephbawo.fun/)
 [![Email](https://img.shields.io/badge/📫%20Email-josephbawo@gmail.com-blue?style=flat-square)](mailto:josephbawo@gmail.com)
 
 ---
@@ -23,7 +23,7 @@ I'm a passionate developer with a love for building efficient and impactful web 
 ### 🤝 Let's Connect
 
 I'm always excited to collaborate, contribute, or simply connect with other developers.  
-Feel free to reach out via [email](mailto:josephbawo@gmail.com) or [visit my portfolio](https://www.josephbawo.tech).
+Feel free to reach out via [email](mailto:josephbawo@gmail.com) or [visit my portfolio](https://josephbawo.fun/).
 
 ---
 
